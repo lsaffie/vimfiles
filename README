@@ -1,0 +1,3 @@
+rename the vim folder to .vim and place all these files in your home folder.
+
+mv vim ~/.vim
