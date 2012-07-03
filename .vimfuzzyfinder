@@ -1,0 +1,401 @@
+VERSION	206
+MruFile	{'path': '/Users/lsaffie/NERD_tree_1', 'time': 1341347842}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/views/tasks/_form.html.haml', 'time': 1341316988}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/views/tasks/index.html.haml', 'time': 1341316957}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/controllers/tasks_controller.rb', 'time': 1341316956}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/NERD_tree_1', 'time': 1341316393}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/seeds.rb', 'time': 1341316264}
+MruFile	{'path': '/Users/lsaffie/pwd', 'time': 1341280170}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/script/rails', 'time': 1341254824}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerClient/Rakefile', 'time': 1341254780}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerClient/customer.rb', 'time': 1341254773}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerClient/lib/task.rb', 'time': 1341254765}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerClient/lib/appender.rb', 'time': 1341254759}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerClient/NERD_tree_1', 'time': 1341254754}
+MruFile	{'path': '/Users/lsaffie/.gitconfig', 'time': 1341252115}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/views/tasks/show.html.haml', 'time': 1341165446}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/.gitignore', 'time': 1341165170}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/.git/config', 'time': 1341164630}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/helpers/tasks_helper.rb', 'time': 1341163777}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/migrate/20120701170218_add_invoiced_at_to_tasks.rb', 'time': 1341162323}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/migrate/20120618011451_create_tasks.rb', 'time': 1341162304}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/migrate/20120701170218_add_invoiced_at_to_tasks', 'time': 1341162267}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/migrate/20120629183252_add_invoiced_to_tasks.rb', 'time': 1341162191}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/migrate/20120701170218_add_invoiced_at_to_tasks:datetime.rb', 'time': 1341162191}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/public/stylesheets/sass/styles.sass', 'time': 1341161944}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/views/tasks/edit.html.haml', 'time': 1340994902}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/migrate/20120629183125_add_invoiced_field.rb', 'time': 1340994699}
+MruFile	{'path': '/Users/lsaffie/Pictures/pwd', 'time': 1340933800}
+MruFile	{'path': '/Users/lsaffie/.wd', 'time': 1340933183}
+MruFile	{'path': '/Users/lsaffie/.pwd', 'time': 1340805591}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 13/act.xml', 'time': 1340595348}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 13/CHH_AMBULANCE_REPORT.PDF', 'time': 1340595339}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 14/act.xml', 'time': 1340594725}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 14/act2.xml', 'time': 1340594718}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 14/CHH_AMBULANCE_REPORT_CDA_R2.xml', 'time': 1340591491}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 14/NERD_tree_1', 'time': 1340591476}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/config/database.yml', 'time': 1340558412}
+MruFile	{'path': '/Users/lsaffie/.profile', 'time': 1340535704}
+MruFile	{'path': '/Users/lsaffie/config', 'time': 1340531482}
+MruFile	{'path': '/Users/lsaffie/ls', 'time': 1340473105}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/integration/mirth.properties', 'time': 1340292499}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/controllers/application_controller.rb', 'time': 1340281061}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerClient/restClient.rb', 'time': 1340280991}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/schema.rb', 'time': 1340277974}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/pwd', 'time': 1340242862}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/views/customers/show.html.haml', 'time': 1340242221}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/views/customers/index.html.haml', 'time': 1340242219}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.git/COMMIT_EDITMSG', 'time': 1340214185}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/README', 'time': 1340207148}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/views/layouts/_header.html.haml', 'time': 1340205470}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/views/layouts/application.html.haml', 'time': 1340198497}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/views/layouts/_admin_menu.html.haml', 'time': 1340198497}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/views/layouts/_menu.haml', 'time': 1340198437}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/views/layouts/_header.html.haml', 'time': 1340198431}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/views/layouts/application.html.haml', 'time': 1340198111}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/db/seeds.rb', 'time': 1340197443}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/app/models/user.rb', 'time': 1340197291}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/config/application.rb', 'time': 1340197009}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/config/environments/development.rb', 'time': 1340196421}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/config/environments/production.rb', 'time': 1340196420}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/Gemfile', 'time': 1340196379}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/public/javascripts/application.js', 'time': 1340194589}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/public/javascripts/jquery-ui-1.8.21.custom.min.js', 'time': 1340122330}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/public/javascripts/jquery-1.7.2-min.js', 'time': 1340121257}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/config/routes.rb', 'time': 1340120817}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/config.ru', 'time': 1340116321}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/public/stylesheets/sass/styles.sass', 'time': 1340115740}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/public/stylesheets/sass/style.sass', 'time': 1340115720}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/layouts/application.html.haml', 'time': 1340115717}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerStandalone/NERD_tree_1', 'time': 1340111967}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/database.yml', 'time': 1340068398}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/tasks/edit.html.haml', 'time': 1340068162}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/controllers/tasks_controller.rb', 'time': 1340068018}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/tasks/new.html.haml', 'time': 1340067912}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/application.rb', 'time': 1340067791}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/environment.rb', 'time': 1340067741}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/initializers/session_store.rb', 'time': 1340067651}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/initializers/secret_token.rb', 'time': 1340067649}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/initializers/mime_types.rb', 'time': 1340067648}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/initializers/inflections.rb', 'time': 1340067646}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/initializers/backtrace_silencers.rb', 'time': 1340067644}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/environments/development.rb', 'time': 1340067597}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/db/migrate/20120618011451_create_tasks.rb', 'time': 1340063836}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/db/migrate/20120618011402_create_customers.rb', 'time': 1340063832}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/models/customer.rb', 'time': 1340047519}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/models/task.rb', 'time': 1340046172}
+MruFile	{'path': '/Users/lsaffie/Dev/ehinventory/app/models/assignment.rb', 'time': 1340046143}
+MruFile	{'path': '/Users/lsaffie/Dev/ehinventory/app/models/software.rb', 'time': 1340046136}
+MruFile	{'path': '/Users/lsaffie/Dev/ehinventory/app/models/hardware.rb', 'time': 1340046000}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/models/comment.rb', 'time': 1340045976}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/models/user.rb', 'time': 1340045972}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/models/tag.rb', 'time': 1340045970}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/models/post.rb', 'time': 1340045966}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/Gemfile', 'time': 1340044728}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/customers/index.html.haml', 'time': 1340041101}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/public/stylesheets/sass/styles.scss', 'time': 1340034256}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/public/stylesheets/styles.css', 'time': 1340033889}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/public/stylesheets/scaffold.css', 'time': 1340033669}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/customers/edit.html.haml', 'time': 1340033466}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/customers/_form.html.haml', 'time': 1340033427}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/customers/new.html.haml', 'time': 1340033308}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/customers/show.html.haml', 'time': 1340033236}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/customers/_form.html.erb', 'time': 1340032313}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/tasks/_form.html.erb', 'time': 1340028401}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/tasks/new.html.erb', 'time': 1340027902}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/tasks/show.html.erb', 'time': 1340027683}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/tasks/edit.html.erb', 'time': 1340027610}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/tasks/index.html.erb', 'time': 1340026840}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/config/routes.rb', 'time': 1340026577}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/Rakefile', 'time': 1340026330}
+MruFile	{'path': '/Users/lsaffie/Dev/timeTracker/app/views/layouts/application.html.erb', 'time': 1340026277}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/config/database.yml', 'time': 1339982639}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerStandalone/db/ar.rb', 'time': 1339982293}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTrackerStandalone/db/schema.rb', 'time': 1339982191}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/lib/appender.rb', 'time': 1339974659}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.git/config', 'time': 1339974609}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/Gemfile.lock', 'time': 1339974063}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/style.css', 'time': 1339972894}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/invoice.html', 'time': 1339972813}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/Rakefile', 'time': 1339971765}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/db/ar.rb', 'time': 1339956884}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/lib/task.rb', 'time': 1339956871}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/customer.rb', 'time': 1339955510}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/timeTracker.rb', 'time': 1339952878}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/timeTracker.csv', 'time': 1339952624}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/act-part2.xml', 'time': 1339904081}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/act-part1.txt', 'time': 1339904072}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/TimeTracker.rb', 'time': 1339892697}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/lib/ar.rb', 'time': 1339695213}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/tt.sqlite', 'time': 1339694807}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/app/controllers/comments_controller.rb', 'time': 1339694769}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/config/boot.rb', 'time': 1339693957}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/Task.rb', 'time': 1339693196}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/db/development.sqlite3', 'time': 1339693189}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/ar.rb', 'time': 1339693080}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/db/schema.rb', 'time': 1339693066}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/app/models/task.rb', 'time': 1339692968}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/config/database.yml', 'time': 1339647573}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/db/migrate/20120614004928_create_tasks.rb', 'time': 1339647346}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/app/controllers/tasks_controller.rb', 'time': 1339635257}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/config/routes.rb', 'time': 1339635212}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/config/environment.rb', 'time': 1339635208}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/db/migrate/20120614004530_create_tasks.rb', 'time': 1339634823}
+MruFile	{'path': '/Users/lsaffie/Dev/ehinventory/db/migrate/20081009162543_create_softwares.rb', 'time': 1339634821}
+MruFile	{'path': '/Users/lsaffie/Dev/timetrack/db/migrate/20120614004336_task.rb', 'time': 1339634669}
+MruFile	{'path': '/Users/lsaffie/Dev/ehinventory/config/database.yml', 'time': 1339634393}
+MruFile	{'path': '/Users/lsaffie/Dev/ehinventory/db/schema.rb', 'time': 1339634387}
+MruFile	{'path': '/Users/lsaffie/Dev/xmpp_githook/config.ru', 'time': 1339614963}
+MruFile	{'path': '/Users/lsaffie/Dev/xmpp_githook/xmpp_githook.rb', 'time': 1339614934}
+MruFile	{'path': '/Users/lsaffie/Dev/xmpp_githook/Rakefile', 'time': 1339614931}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/TaskDriver.rb', 'time': 1339613291}
+MruFile	{'path': '/Users/lsaffie/Dev/ehinventory/Rakefile', 'time': 1339613003}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/Rakefile', 'time': 1339612945}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/Appender.rb', 'time': 1339545724}
+MruFile	{'path': '/Users/lsaffie/Dev/weather/Weather.rb', 'time': 1339525637}
+MruFile	{'path': '/Users/lsaffie/Dev/weather/weatherr.rb', 'time': 1339525621}
+MruFile	{'path': '/Users/lsaffie/Dev/Sysadmin/move_files.sh', 'time': 1339523723}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/start_task.rb', 'time': 1339523483}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/end_task.rb', 'time': 1339523391}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/test.rb', 'time': 1339523014}
+MruFile	{'path': '/Users/lsaffie/Dev/TimeTracker/blah', 'time': 1339463448}
+MruFile	{'path': '/Users/lsaffie/Dev/github/github.rb', 'time': 1339462422}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/assignment.xml', 'time': 1339118375}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/Assignment.xml', 'time': 1339118207}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/MiniCDA/MiniCDA - User Manual.pdf', 'time': 1339092474}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/NERD_tree_1', 'time': 1339092452}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/CDA_SCHEMAS/datatypes-base.xsd', 'time': 1339091781}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/CDA_SCHEMAS/CDA.xsd', 'time': 1339091779}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/CDA_SCHEMAS/NarrativeBlock.xsd', 'time': 1339091763}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/CDA_SCHEMAS/POCD_MT000040.xsd', 'time': 1339091753}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 12/CDA_SCHEMAS/NERD_tree_1', 'time': 1339090838}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.gitignore', 'time': 1338576104}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.wst.ws.service.policy.prefs', 'time': 1338391492}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.wst.jsdt.ui.superType.name', 'time': 1338391490}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.wst.jsdt.ui.superType.container', 'time': 1338391489}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.wst.common.project.facet.core.xml', 'time': 1338391487}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.wst.common.component', 'time': 1338391482}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.m2e.core.prefs', 'time': 1338391480}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.ltk.core.refactoring.prefs', 'time': 1338391479}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.jst.common.project.facet.core.prefs', 'time': 1338391475}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.jdt.core.prefs', 'time': 1338391473}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.core.resources.prefs', 'time': 1338391469}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/org.eclipse.ajdt.core.prefs', 'time': 1338391466}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/com.vaadin.integration.eclipse.prefs', 'time': 1338391464}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/com.google.gwt.eclipse.core.prefs', 'time': 1338391462}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.settings/NERD_tree_1', 'time': 1338391443}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/NERD_tree_3', 'time': 1338391431}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/NERD_tree_1', 'time': 1338383843}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/.project', 'time': 1338304720}
+MruFile	{'path': '/Users/lsaffie/Dev/ebpews/WebContent/WEB-INF/web.xml', 'time': 1338296925}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 11/act.txt', 'time': 1338258443}
+MruFile	{'path': '/Users/lsaffie/Documents/Work/BCS/HL7 Course/Unit 11/NERD_tree_1', 'time': 1338257275}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/public/links/index.html', 'time': 1338159267}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/NERD_tree_1', 'time': 1338159078}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/public/javascripts/rails.js', 'time': 1338158300}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/public/javascripts/prototype.js', 'time': 1338158295}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/public/javascripts/effects.js', 'time': 1338158287}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/public/javascripts/dragdrop.js', 'time': 1338158283}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/public/javascripts/controls.js', 'time': 1338158279}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/public/javascripts/application.js', 'time': 1338158277}
+MruFile	{'path': '/Users/lsaffie/Dev/saffie.ca/script/rails', 'time': 1338158209}
+MruCmd	{'time': 1341347843, 'command': ':q'}
+MruCmd	{'time': 1341347842, 'command': ':NERDTreeToggle'}
+MruCmd	{'time': 1341316988, 'command': ':w'}
+MruCmd	{'time': 1341316983, 'command': ':1'}
+MruCmd	{'time': 1341316971, 'command': '/inv'}
+MruCmd	{'time': 1341316961, 'command': ':wincmd h'}
+MruCmd	{'time': 1341316712, 'command': ':wincmd j'}
+MruCmd	{'time': 1341316603, 'command': ':wincmd k'}
+MruCmd	{'time': 1341316580, 'command': '/update'}
+MruCmd	{'time': 1341316264, 'command': ':wq!'}
+MruCmd	{'time': 1341316112, 'command': ':wq'}
+MruCmd	{'time': 1341316104, 'command': ':%s/"/''/g'}
+MruCmd	{'time': 1341280140, 'command': ':$'}
+MruCmd	{'time': 1341280138, 'command': '/BELL'}
+MruCmd	{'time': 1341280136, 'command': '/bell'}
+MruCmd	{'time': 1341163000, 'command': ':FuzzyFinderMruFile'}
+MruCmd	{'time': 1341162975, 'command': ':15'}
+MruCmd	{'time': 1341162429, 'command': '/'}
+MruCmd	{'time': 1341162427, 'command': '/read'}
+MruCmd	{'time': 1341161801, 'command': '/tr'}
+MruCmd	{'time': 1340996202, 'command': ':w:w'}
+MruCmd	{'time': 1340994779, 'command': ':q!'}
+MruCmd	{'time': 1340977241, 'command': '/Sco'}
+MruCmd	{'time': 1340933817, 'command': '/MBNA'}
+MruCmd	{'time': 1340933815, 'command': '/mbna'}
+MruCmd	{'time': 1340933192, 'command': '/scotia'}
+MruCmd	{'time': 1340817015, 'command': '/Mom'}
+MruCmd	{'time': 1340805635, 'command': '/scot'}
+MruCmd	{'time': 1340804207, 'command': '/code'}
+MruCmd	{'time': 1340758790, 'command': '/Scotia'}
+MruCmd	{'time': 1340758438, 'command': '/mom'}
+MruCmd	{'time': 1340758256, 'command': '/Bell'}
+MruCmd	{'time': 1340594717, 'command': ':w act.xml'}
+MruCmd	{'time': 1340594676, 'command': '/intendedR'}
+MruCmd	{'time': 1340594669, 'command': '/intended'}
+MruCmd	{'time': 1340594642, 'command': ':119'}
+MruCmd	{'time': 1340594632, 'command': '/assignedEnti'}
+MruCmd	{'time': 1340594586, 'command': '/assignedAuthor'}
+MruCmd	{'time': 1340594484, 'command': '/assignedAut'}
+MruCmd	{'time': 1340594480, 'command': '/assignedAu'}
+MruCmd	{'time': 1340594465, 'command': '/representedO'}
+MruCmd	{'time': 1340594458, 'command': '/representedOr'}
+MruCmd	{'time': 1340594277, 'command': '/assignedEn'}
+MruCmd	{'time': 1340594185, 'command': '/scoping'}
+MruCmd	{'time': 1340594150, 'command': '/addr'}
+MruCmd	{'time': 1340594121, 'command': '/associatedEn'}
+MruCmd	{'time': 1340594082, 'command': '/associated'}
+MruCmd	{'time': 1340594036, 'command': '/represetedOr'}
+MruCmd	{'time': 1340594029, 'command': '/representedOrg'}
+MruCmd	{'time': 1340593941, 'command': '/assigned'}
+MruCmd	{'time': 1340593897, 'command': '/received'}
+MruCmd	{'time': 1340593870, 'command': '/receivedOr'}
+MruCmd	{'time': 1340593853, 'command': '/representedCus'}
+MruCmd	{'time': 1340593688, 'command': '/represented'}
+MruCmd	{'time': 1340593543, 'command': '?telecom'}
+MruCmd	{'time': 1340593534, 'command': ':$Telecom'}
+MruCmd	{'time': 1340593492, 'command': '/<\/tele'}
+MruCmd	{'time': 1340593472, 'command': '/telecom'}
+MruCmd	{'time': 1340593426, 'command': '/Line'}
+MruCmd	{'time': 1340593420, 'command': ':sp'}
+MruCmd	{'time': 1340593121, 'command': '/postal'}
+MruCmd	{'time': 1340592751, 'command': '/<addr'}
+MruCmd	{'time': 1340592590, 'command': '/assignedA'}
+MruCmd	{'time': 1340592055, 'command': '/address'}
+MruCmd	{'time': 1340592001, 'command': '/telecom\ '}
+MruCmd	{'time': 1340591885, 'command': '/provider'}
+MruCmd	{'time': 1340591773, 'command': '/tele'}
+MruCmd	{'time': 1340591724, 'command': '/add'}
+MruCmd	{'time': 1340591547, 'command': '/recordT'}
+MruCmd	{'time': 1340591491, 'command': ':w act2.xml'}
+MruCmd	{'time': 1340591483, 'command': ':act2.xml'}
+MruCmd	{'time': 1340591330, 'command': '/asOr'}
+MruCmd	{'time': 1340591096, 'command': '/ClinicalDoc'}
+MruCmd	{'time': 1340591013, 'command': '/assignedEnt'}
+MruCmd	{'time': 1340590852, 'command': '/performer'}
+MruCmd	{'time': 1340590466, 'command': '/custo'}
+MruCmd	{'time': 1340590409, 'command': '/Data'}
+MruCmd	{'time': 1340590404, 'command': ':dataEn'}
+MruCmd	{'time': 1340590157, 'command': '/author'}
+MruCmd	{'time': 1340590029, 'command': '/Record'}
+MruCmd	{'time': 1340589961, 'command': '/organiz'}
+MruCmd	{'time': 1340589811, 'command': '/real'}
+MruCmd	{'time': 1340589452, 'command': '/2.16.840.1.113883.'}
+MruCmd	{'time': 1340559359, 'command': '/ING'}
+MruCmd	{'time': 1340535701, 'command': '/export'}
+MruCmd	{'time': 1340535320, 'command': '/PS'}
+MruCmd	{'time': 1340535072, 'command': '/comple'}
+MruCmd	{'time': 1340534647, 'command': '/__git_ps1:'}
+MruCmd	{'time': 1340534637, 'command': '/__git_ps1'}
+MruCmd	{'time': 1340534519, 'command': '/bash'}
+MruCmd	{'time': 1340534513, 'command': '/brew'}
+MruCmd	{'time': 1340531697, 'command': '/git'}
+MruCmd	{'time': 1340531690, 'command': '/ps1'}
+MruCmd	{'time': 1340474841, 'command': '/SIN'}
+MruCmd	{'time': 1340292501, 'command': '/jdbc'}
+MruCmd	{'time': 1340278499, 'command': '/create'}
+MruCmd	{'time': 1340278224, 'command': '/loas'}
+MruCmd	{'time': 1340277858, 'command': ':e restClient.rb'}
+MruCmd	{'time': 1340242879, 'command': '/ing'}
+MruCmd	{'time': 1340239581, 'command': '/Scot'}
+MruCmd	{'time': 1340198166, 'command': ':e app/views/layouts/_header.html.haml'}
+MruCmd	{'time': 1340114905, 'command': '/&'}
+MruCmd	{'time': 1340114297, 'command': '/color'}
+MruCmd	{'time': 1340067750, 'command': '/zone'}
+MruCmd	{'time': 1340064450, 'command': '/debug'}
+MruCmd	{'time': 1340052436, 'command': ':22'}
+MruCmd	{'time': 1340043691, 'command': '/new'}
+MruCmd	{'time': 1340033231, 'command': ':%s/%>//g'}
+MruCmd	{'time': 1340033185, 'command': ':%s/<%=/=/g'}
+MruCmd	{'time': 1340033130, 'command': ':%s/<td>/%td/g'}
+MruCmd	{'time': 1340032683, 'command': ':%s/<\/td>//g'}
+MruCmd	{'time': 1340032626, 'command': ':%s/<th>/%th/g'}
+MruCmd	{'time': 1340032609, 'command': ':%s/<\/th>//g'}
+MruCmd	{'time': 1340032598, 'command': ':%s/</th>//g'}
+MruCmd	{'time': 1340032581, 'command': ':%s/</*//=/g'}
+MruCmd	{'time': 1340032421, 'command': ':%s/</%/g'}
+MruCmd	{'time': 1340032386, 'command': ':%s/<%/-/g'}
+MruCmd	{'time': 1340028521, 'command': '/br'}
+MruCmd	{'time': 1340028512, 'command': ':%s/<br \/>/%br/g'}
+MruCmd	{'time': 1340028350, 'command': ':%s/<\/div>//g'}
+MruCmd	{'time': 1340028335, 'command': ':%s/class=/:class =>/g'}
+MruCmd	{'time': 1340028311, 'command': ':%s/<div/%div/g'}
+MruCmd	{'time': 1340027821, 'command': ':%s/<%//g'}
+MruCmd	{'time': 1340027796, 'command': ':%s/<\/p>//g'}
+MruCmd	{'time': 1340027785, 'command': ':%s/</\p>//g'}
+MruCmd	{'time': 1340027767, 'command': ':%s/<\/b>//g'}
+MruCmd	{'time': 1340027755, 'command': ':%s/<b>/%b/g'}
+MruCmd	{'time': 1340027714, 'command': ':%s/<p>/%p/g'}
+MruCmd	{'time': 1340027106, 'command': ':%s/%><\/td>//g'}
+MruCmd	{'time': 1340027073, 'command': ':%s/<td><%=/%td=/g'}
+MruCmd	{'time': 1340026927, 'command': ':%s/<th>/%th'}
+MruCmd	{'time': 1340026565, 'command': '/root'}
+MruCmd	{'time': 1340026563, 'command': '/def'}
+MruCmd	{'time': 1340026508, 'command': '/gene'}
+MruCmd	{'time': 1339982404, 'command': '/mys'}
+MruCmd	{'time': 1339971690, 'command': '/dump'}
+MruCmd	{'time': 1339953856, 'command': ':%s/self.task/@task/g'}
+MruCmd	{'time': 1339953842, 'command': '/task'}
+MruCmd	{'time': 1339953514, 'command': '/this'}
+MruCmd	{'time': 1339953382, 'command': ':3'}
+MruCmd	{'time': 1339953169, 'command': '/trac'}
+MruCmd	{'time': 1339953166, 'command': '/time'}
+MruCmd	{'time': 1339952866, 'command': ':w customer.rb'}
+MruCmd	{'time': 1339906142, 'command': '/Chief'}
+MruCmd	{'time': 1339906138, 'command': '/chief'}
+MruCmd	{'time': 1339904824, 'command': ':%s///g'}
+MruCmd	{'time': 1339904803, 'command': ':%s/^V^M/^V^M/g'}
+MruCmd	{'time': 1339904739, 'command': ':%s///g'}
+MruCmd	{'time': 1339904103, 'command': '/birth'}
+MruCmd	{'time': 1339695273, 'command': ':w schema.rb'}
+MruCmd	{'time': 1339647206, 'command': ':e ar.rb'}
+MruCmd	{'time': 1339635149, 'command': '/default'}
+MruCmd	{'time': 1339614696, 'command': ':23'}
+MruCmd	{'time': 1339614533, 'command': ':e config.ru'}
+MruCmd	{'time': 1339614525, 'command': ':!pwd'}
+MruCmd	{'time': 1339612910, 'command': ':e Rakefile'}
+MruCmd	{'time': 1339526188, 'command': '/file'}
+MruCmd	{'time': 1339523747, 'command': ':a'}
+MruCmd	{'time': 1339523014, 'command': ':w end_task.rb'}
+MruCmd	{'time': 1339522993, 'command': ':w start_task.rb'}
+MruCmd	{'time': 1339461810, 'command': ':8'}
+MruCmd	{'time': 1339460830, 'command': ':e Appender.rb'}
+MruCmd	{'time': 1339090165, 'command': '/<'}
+MruCmd	{'time': 1338391485, 'command': '/inc'}
+MruCmd	{'time': 1338380005, 'command': ':! pwd'}
+MruCmd	{'time': 1338296927, 'command': '/lib'}
+MruCmd	{'time': 1337864591, 'command': '/webco'}
+MruCmd	{'time': 1337864588, 'command': '/webap'}
+MruCmd	{'time': 1337794656, 'command': '/layout'}
+MruCmd	{'time': 1337731862, 'command': '/silva'}
+MruCmd	{'time': 1337654429, 'command': '/id'}
+MruCmd	{'time': 1337653812, 'command': '/name'}
+MruCmd	{'time': 1337653807, 'command': '/org'}
+MruCmd	{'time': 1337653277, 'command': '/descri'}
+MruCmd	{'time': 1337648591, 'command': '/right_co'}
+MruCmd	{'time': 1337647485, 'command': '/menu'}
+MruCmd	{'time': 1337619857, 'command': '/pagina'}
+MruCmd	{'time': 1337618721, 'command': '/paginat'}
+MruCmd	{'time': 1337618718, 'command': '/container'}
+MruCmd	{'time': 1337618609, 'command': '/pagi'}
+MruCmd	{'time': 1337618578, 'command': '/footer'}
+MruCmd	{'time': 1337618422, 'command': '/main_'}
+MruCmd	{'time': 1337618342, 'command': '/header'}
+MruCmd	{'time': 1337618066, 'command': ':128'}
+MruCmd	{'time': 1337617282, 'command': '/second'}
+MruCmd	{'time': 1337617205, 'command': ':"w'}
+MruCmd	{'time': 1337617180, 'command': '/right-content'}
+MruCmd	{'time': 1337616878, 'command': '/title'}
+MruCmd	{'time': 1337616748, 'command': '/post_body'}
+MruCmd	{'time': 1337616664, 'command': '/white'}
+MruCmd	{'time': 1337616651, 'command': '/FFF'}
+MruCmd	{'time': 1337616458, 'command': '/round'}
+MruCmd	{'time': 1337616213, 'command': '/auto'}
+MruCmd	{'time': 1337616188, 'command': '/pagin'}
+MruCmd	{'time': 1337615848, 'command': '/484'}
+MruCmd	{'time': 1337615553, 'command': '/hover'}
+MruCmd	{'time': 1337615521, 'command': '/body'}
+MruCmd	{'time': 1337614922, 'command': ':FuzzyFinderFile'}
+MruCmd	{'time': 1337568405, 'command': '/right_content'}
+MruCmd	{'time': 1337568396, 'command': '/rith_content_hea'}
