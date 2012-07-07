@@ -114,7 +114,7 @@ nnoremap Y y$
 map <leader>b :FuzzyFinderBuffer<CR>
 "map <leader>] :FuzzyFinderMruFile<CR>"
 map <leader>[ :FuzzyFinderMruFile<CR>"
-map <leader>] :FuzzyFinderFile<CR>
+map <leader>] :FuzzyFinderFile \*\*\/<CR>
 map <leader>r :ruby finder.rescan!<CR>
 map ,t :Rake<CR>
 
