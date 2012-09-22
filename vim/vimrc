@@ -7,9 +7,9 @@ autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 autocmd FileType c set omnifunc=ccomplete#Complete
 autocmd FileType ruby,eruby set omnifunc=rubycomplete#Complete
 autocmd FileType ruby,perl,tex set shiftwidth=2
- 
+
 autocmd FileType c,cpp,java,javascript,python,xml,xhtml,html set shiftwidth=2
- 
+
 augroup filetypedetect
   au! BufNewFile,BufRead *.ch setf cheat
   au BufNewFile,BufRead *.liquid setf liquid
@@ -21,6 +21,15 @@ autocmd BufNewFile,BufRead *_test.rb source ~/.vim/ftplugin/shoulda.vim
 "use \rci in normal mode to indent ruby code,should install kode ,sudo gem
 "install kode
 nmap <leader>rci :%!ruby-code-indenter<cr>
+
+"TABS
+map <C-Tab> :tabn <CR>
+map <C-S-Tab> :tabp <CR>
+
+
+"CTAGS
+set tags=.tags
+map <leader>tl :TlistToggle<cr>
  
 autocmd FileType ruby,eruby set omnifunc=rubycomplete#Complete
 autocmd FileType ruby,eruby let g:rubycomplete_buffer_loading = 1
@@ -53,7 +62,7 @@ set laststatus=2
 
 map <C-q> :mksession! ~/.vim/.session <cr>
 map <C-//> map ,# :s/^/#/<CR>
-map <S-//> :s/^\/\/\\|^--\\|^> \\|^[#"%!;]//<CR><Esc>:nohlsearch<CR>
+"map <S-//> :s/^\/\/\\|^--\\|^> \\|^[#"%!;]//<CR><Esc>:nohlsearch<CR>
 imap <M-Up> :tabn<CR>
 imap <M-Down> :tabp<CR>
 imap <c-s> <esc><c-s>
@@ -111,8 +120,14 @@ noremap Q gq
 "make Y consistent with C and D
 nnoremap Y y$
 
-map <leader>b :FuzzyFinderBuffer<CR>
-map <leader>] :FuzzyFinderMruFile<CR>
+let g:fuf_modesDisable = []
+"map <leader>b :FuzzyFinderBuffer<CR>
+map <leader>b :FufBuffer<CR>
+"map <leader>] :FuzzyFinderMruFile<CR>"
+"map <leader>[ :FuzzyFinderMruFile<CR>"
+map <leader>[ :FufMruFile <CR>"
+"map <leader>] :FuFFileFuzzyFinderFile \*\*\/<CR>
+map <leader>] :FufFile \*\*\/<CR>
 map <leader>r :ruby finder.rescan!<CR>
 map ,t :Rake<CR>
 
@@ -305,7 +320,10 @@ set wmh=0
 "Move lines mappings"
 map <A-j> :m+<CR>==
 map <A-k> :m-2<CR>==
-"nmap <S-j> <Esc>:m+<CR>==gi
-"nmap <S-k> <Esc>:m-2<CR>==gi
-"map <S-j> :m'>+<CR>gv=gv
-"map <S-k> :m-<CR>gv=gv
+
+"No more than 80 cols"
+"if exists('+colorcolumn')
+"  set colorcolumn=80
+"endif
+highlight OverLength ctermbg=red ctermfg=white
+match OverLength /\%81v.\+/
