@@ -127,7 +127,7 @@ map <leader>b :FufBuffer<CR>
 "map <leader>[ :FuzzyFinderMruFile<CR>"
 map <leader>[ :FufMruFile <CR>"
 "map <leader>] :FuFFileFuzzyFinderFile \*\*\/<CR>
-map <leader>] :FufFile \*\*\/<CR>
+map <leader>] :FufFile **/<CR>
 map <leader>r :ruby finder.rescan!<CR>
 map ,t :Rake<CR>
 
