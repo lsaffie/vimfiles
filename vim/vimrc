@@ -1,3 +1,4 @@
+call pathogen#infect()
 autocmd FileType python set omnifunc=pythoncomplete#Complete
 autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
 autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
@@ -71,7 +72,9 @@ set guioptions-=T
 if has("gui_running")
   "tell the term has 256 colors
   set t_Co=256
-  colorscheme desert 
+  "colorscheme desert 
+  set background=dark
+  colorscheme wombat
   set lines=40
   set columns=115
 else
@@ -82,12 +85,17 @@ endif
 
 if $COLORTERM == 'gnome-terminal'
   set term=gnome-256color
-  colorscheme desert
+  "colorscheme desert
+  set background=dark
+  colorscheme wombat
 else
-  colorscheme desert
+  "colorscheme desert
+  set background=dark
+  colorscheme wombat
 endif
 
 syntax on                 " Enable syntax highlighting
+" Solarized colour scheme
  
 " Load matchit (% to bounce from do to end, etc.)
 runtime! macros/matchit.vim
@@ -270,10 +278,10 @@ inoremap <C-R> <C-O>:source ~/.vimrc
 vnoremap <C-R> <C-C>:source ~/.vimrc
 
 " CTRL-T and CTRL-D indent and unindent blocks
-inoremap <C-D> <C-O><LT><LT>
-nnoremap <C-D> <LT><LT>
-vnoremap <C-T> >
-vnoremap <C-D> <LT>
+"inoremap <C-D> <C-O><LT><LT>
+"nnoremap <C-D> <LT><LT>
+"vnoremap <C-T> >
+"vnoremap <C-D> <LT>
 
 " CTRL-Z undoes even in visual/selection mode
 vnoremap <C-Z> <C-C>
