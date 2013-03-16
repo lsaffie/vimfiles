@@ -1,3 +1,5 @@
+
+
 call pathogen#infect()
 autocmd FileType python set omnifunc=pythoncomplete#Complete
 autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
@@ -136,7 +138,7 @@ map <leader>b :FufBuffer<CR>
 map <leader>[ :FufMruFile <CR>"
 "map <leader>] :FuFFileFuzzyFinderFile \*\*\/<CR>
 map <leader>] :FufFile **/<CR>
-map <leader>r :ruby finder.rescan!<CR>
+"map <leader>r :ruby finder.rescan!<CR>
 map ,t :Rake<CR>
 
 let g:proj_flags="imstg"
