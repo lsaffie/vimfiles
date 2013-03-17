@@ -1,3 +1,5 @@
-rename the vim folder to .vim and place all these files in your home folder.
+ln -s vimfiles .vim
+ln -s vimfiles/vimrc .vimrc
 
-mv vim ~/.vim
+#To install modules
+cd ~/.vim && git submodule init && git submodule update
