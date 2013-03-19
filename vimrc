@@ -81,7 +81,7 @@ set hidden
 
 "statusline setup
 set statusline =%#identifier#
-set statusline+=[%t]    "tail of the filename
+set statusline+=%-20f    "tail of the filename
 set statusline+=%*
 
 "display a warning if fileformat isnt unix
@@ -119,7 +119,7 @@ set statusline+=%{StatuslineTrailingSpaceWarning()}
 set statusline+=%{StatuslineLongLineWarning()}
 
 set statusline+=%#warningmsg#
-"set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 
 "display a warning if &paste is set

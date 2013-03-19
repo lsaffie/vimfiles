@@ -28,3 +28,9 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git://github.com/scrooloose/syntastic.git
+[submodule "bundle/mru"]
+	path = bundle/mru
+	url = git://github.com/vim-scripts/mru.vim.git
