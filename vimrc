@@ -141,9 +141,9 @@ let g:miniBufExplModSelTarget = 0
 let g:miniBufExplUseSingleClick = 1
 let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplSplitBelow=1
-"let g:miniBufExplVSplit = 20 
+let g:miniBufExplVSplit = 30 
 
-map <C-b> :MiniBufExplorer<cr>
+map <Leader>b :MiniBufExplorer<cr>
 
 
 "recalculate the trailing whitespace warning when idle, and after saving
