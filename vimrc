@@ -21,7 +21,6 @@ set list
 set listchars=tab:▷⋅,trail:⋅,nbsp:⋅
 
 set incsearch   "find the next match as we type the search
-set hlsearch    "hilight searches by default
 
 set wrap        "dont wrap lines
 set linebreak   "wrap lines at convenient points
@@ -137,11 +136,10 @@ set laststatus=2
 "minibufferexplorer settings
 let g:miniBufExplModSelTarget = 1
 let g:miniBufExplorerMoreThanOne = 0
-let g:miniBufExplModSelTarget = 0
 let g:miniBufExplUseSingleClick = 1
 let g:miniBufExplMapWindowNavVim = 1
-let g:miniBufExplSplitBelow=1
-let g:miniBufExplVSplit = 30 
+"let g:miniBufExplSplitBelow=1
+"let g:miniBufExplVSplit = 30 
 
 map <Leader>b :MiniBufExplorer<cr>
 
