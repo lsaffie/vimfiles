@@ -260,6 +260,7 @@ function! s:Median(nums)
 endfunction
 
 "nerdtree settings
+let g:NERDTreeDirArrows=0
 let g:NERDTreeMouseMode = 2
 let g:NERDTreeWinSize = 40
 nmap <silent> <Leader>p :NERDTreeToggle<CR>
