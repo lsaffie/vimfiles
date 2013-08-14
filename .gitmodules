@@ -43,6 +43,3 @@
 [submodule "bundle/ctrlp"]
 	path = bundle/ctrlp
 	url = git://github.com/kien/ctrlp.vim.git
-[submodule "bundle/minibufexpl"]
-	path = bundle/minibufexpl
-	url = git://github.com/fholgado/minibufexpl.vim.git
