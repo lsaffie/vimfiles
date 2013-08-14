@@ -18,7 +18,8 @@ set number      "show line numbers
 
 "display tabs and trailing spaces
 set list
-set listchars=tab:▷⋅,trail:⋅,nbsp:⋅
+:highlight ExtraWhitespace ctermbg=red guibg=red
+:match ExtraWhitespace /\s\+$/
 
 set incsearch   "find the next match as we type the search
 
