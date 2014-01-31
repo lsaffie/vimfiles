@@ -16,11 +16,6 @@ set showmode    "show current mode down the bottom
 
 set number      "show line numbers
 
-"display tabs and trailing spaces
-set nolist
-:highlight ExtraWhitespace ctermbg=red guibg=red
-:match ExtraWhitespace /\s\+$/
-
 set incsearch   "find the next match as we type the search
 
 set wrap        "dont wrap lines
@@ -68,6 +63,8 @@ filetype indent on
 
 "turn on syntax highlighting
 syntax on
+set background=dark
+colorscheme wombat
 
 "some stuff to get the mouse going in term
 set mouse=a
@@ -143,6 +140,12 @@ let g:miniBufExplMapWindowNavVim = 1
 "let g:miniBufExplVSplit = 30 
 
 map <Leader>b :MiniBufExplorer<cr>
+
+"display tabs and trailing spaces
+set nolist
+:highlight ExtraWhitespace ctermbg=red guibg=red
+:match ExtraWhitespace /\s\+$/
+
 
 
 "recalculate the trailing whitespace warning when idle, and after saving
