@@ -11,6 +11,9 @@ set backspace=indent,eol,start
 "store lots of :cmdline history
 set history=1000
 
+"set hightligh search
+set hlsearch
+
 set showcmd     "show incomplete cmds down the bottom
 set showmode    "show current mode down the bottom
 
@@ -35,11 +38,22 @@ set softtabstop=2
 set expandtab
 set autoindent
 autocmd FileType ruby,perl,tex set shiftwidth=2
+" map <Leader>t :call RunCurrentSpecFile
+" map <Leader>s :call RunNearestSpec
+" map <Leader>l :call RunLastSpec
+" map <Leader>a :call RunAllSpecs
 
 "reload .vimrc
 nnoremap <C-R> :source ~/.vimrc
 
+"remove trailing white spaces
+nnoremap <Leader>w :%s/\s\+$// <CR>
 
+"vimgrep
+nnoremap <Leader>g :noautocmd vimgrep /<C-r><C-w>/ **/*.rb <Bar> cw 
+
+"search and replace
+nnoremap <Leader>r :noautocmd %s/<C-r><C-w>/<C-r><C-w>/gc
 
 "folding settings
 set foldmethod=indent   "fold based on indent
@@ -61,10 +75,6 @@ set sidescroll=1
 filetype plugin on
 filetype indent on
 
-"turn on syntax highlighting
-syntax on
-set background=dark
-colorscheme wombat
 
 "some stuff to get the mouse going in term
 set mouse=a
@@ -146,6 +156,11 @@ set nolist
 :highlight ExtraWhitespace ctermbg=red guibg=red
 :match ExtraWhitespace /\s\+$/
 
+"turn on syntax highlighting
+syntax enable
+set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
 
 
 "recalculate the trailing whitespace warning when idle, and after saving
@@ -278,6 +293,11 @@ nmap <silent> <C-H> :wincmd h<CR>
 nmap <silent> <C-L> :wincmd l<CR>
 
 "explorer mappings
+map <Leader>t :call RunCurrentSpecFile()<CR>
+map <Leader>s :call RunNearestSpec()<CR>
+map <Leader>l :call RunLastSpec()<CR>
+map <Leader>a :call RunAllSpecs()<CR>
+
 nnoremap <f1> :BufExplorer<cr>
 nnoremap <f2> :NERDTreeToggle<cr>
 nnoremap <f3> :TagbarToggle<cr>
