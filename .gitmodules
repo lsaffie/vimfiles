@@ -46,3 +46,9 @@
 [submodule "bundle/wim-wombat.git"]
 	path = bundle/wim-wombat.git
 	url = https://github.com/cschlueter/vim-wombat.git
+[submodule "bundle/tslime.git"]
+	path = bundle/tslime.git
+	url = git://github.com:jgdavey/tslime.vim.git
+[submodule "bundle/vim-dispatch"]
+	path = bundle/vim-dispatch
+	url = git@github.com:tpope/vim-dispatch.git

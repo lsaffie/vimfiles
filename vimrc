@@ -149,6 +149,11 @@ let g:miniBufExplMapWindowNavVim = 1
 "let g:miniBufExplSplitBelow=1
 "let g:miniBufExplVSplit = 30 
 
+"vim-rspec
+"let g:rspec_command = "!bundle exec zeus rspec -I . {spec}"
+let g:rspec_command = "Dispatch bundle exec zeus rspec -I . {spec}"
+"let g:rspec_command = 'call Send_to_Tmux("bundle exec zeus rspec -I . {spec}\n")'
+
 map <Leader>b :MiniBufExplorer<cr>
 
 "display tabs and trailing spaces
