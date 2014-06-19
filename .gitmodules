@@ -10,9 +10,6 @@
 [submodule "bundle/vim-endwise"]
 	path = bundle/vim-endwise
 	url = git://github.com/tpope/vim-endwise.git
-[submodule "bundle/TagHighlight"]
-	path = bundle/TagHighlight
-	url = git://github.com/abudden/TagHighlight.git
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git 
@@ -43,12 +40,15 @@
 [submodule "bundle/ctrlp"]
 	path = bundle/ctrlp
 	url = git://github.com/kien/ctrlp.vim.git
-[submodule "bundle/wim-wombat.git"]
-	path = bundle/wim-wombat.git
-	url = https://github.com/cschlueter/vim-wombat.git
-[submodule "bundle/tslime.git"]
-	path = bundle/tslime.git
-	url = git://github.com:jgdavey/tslime.vim.git
 [submodule "bundle/vim-dispatch"]
 	path = bundle/vim-dispatch
 	url = git@github.com:tpope/vim-dispatch.git
+[submodule "bundle/vim-rspec"]
+	path = bundle/vim-rspec
+	url = https://github.com/thoughtbot/vim-rspec.git
+[submodule "bundle/vim-wombat"]
+	path = bundle/vim-wombat
+	url = git://github.com:cschlueter/vim-wombat.git
+[submodule "bundle/TagHighlight"]
+	path = bundle/TagHighlight
+	url = git://github.com:abudden/taghighlight-automirror.git
