@@ -160,14 +160,16 @@ map <Leader>b :MiniBufExplorer<cr>
 
 
 "display tabs and trailing spaces
+set nolist
 :autocmd ColorScheme * highlight ExtraWhitespace ctermbg=red guibg=red
-:match ExtraWhitespace /\s\+$/
 
 "turn on syntax highlighting
 syntax enable
 set background=dark
 let g:solarized_termcolors=256
 colorscheme solarized
+
+:match ExtraWhitespace /\s\+$/
 
 "recalculate the trailing whitespace warning when idle, and after saving
 autocmd cursorhold,bufwritepost * unlet! b:statusline_trailing_space_warning
