@@ -152,14 +152,15 @@ let g:miniBufExplMapWindowNavVim = 1
 "tslime
 "vim-rspec
 "let g:rspec_command = "!bundle exec zeus rspec -I . {spec}"
-let g:rspec_command = "Dispatch bundle exec zeus rspec -I . {spec}"
+"let g:rspec_command = "Dispatch bundle exec zeus rspec -I . {spec}"
+let g:rspec_command = "Dispatch exec zeus rspec -I . {spec}"
 "let g:rspec_command = 'call Send_to_Tmux("bundle exec zeus rspec -I . {spec}\n")'
 
 map <Leader>b :MiniBufExplorer<cr>
 
+
 "display tabs and trailing spaces
-set nolist
-:highlight ExtraWhitespace ctermbg=red guibg=red
+:autocmd ColorScheme * highlight ExtraWhitespace ctermbg=red guibg=red
 :match ExtraWhitespace /\s\+$/
 
 "turn on syntax highlighting
@@ -167,7 +168,6 @@ syntax enable
 set background=dark
 let g:solarized_termcolors=256
 colorscheme solarized
-
 
 "recalculate the trailing whitespace warning when idle, and after saving
 autocmd cursorhold,bufwritepost * unlet! b:statusline_trailing_space_warning
