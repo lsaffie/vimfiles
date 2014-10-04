@@ -11,23 +11,13 @@ ln -s ~/.vim/vimrc ~/.vimrc
 </code></pre>
 
 
-<pre><code>
-git clone git://github.com/akitaonrails/vimfiles.git vimfiles
+
 
 To install submodules
 
-cd .vimrc
+cd .vim
 git submodule init
 git submodule update
 </code></pre>
 
-Still on Windows, run the following command in a Command Prompt console:
 
-<pre><code>
-cd %HOME%\vimfiles
-
-vim after\plugin\snippets.vim +":%s/.vim/vimfiles/g" +":x!"
-vim plugin\fuzzyfinder_textmate.vim +":%s/.vim/vimfiles/g" +":x!"
-vim vimrc +":%s/desert/vibrantink/g" +":x!"
-vim vimrc +":%s/monaco/Consolas:h12/g" +":x!"
-vim vimrc +":%s/<c-f>/<c-t>/g" +":x!"
