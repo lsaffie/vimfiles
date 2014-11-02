@@ -169,6 +169,9 @@ set background=dark
 let g:solarized_termcolors=256
 colorscheme solarized
 
+"ctags
+set tags+=./tags;$HOME
+
 :match ExtraWhitespace /\s\+$/
 
 "recalculate the trailing whitespace warning when idle, and after saving
