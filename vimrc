@@ -365,13 +365,13 @@ autocmd BufReadPost fugitive://*
   \   nnoremap <buffer> .. :edit %:h<CR> |
   \ endif
 
-filetype plugin indent on
-syntax on
+"filetype plugin indent on
+"syntax on
 
 "turn on syntax highlighting
 syntax enable
 set background=dark
-let g:solarized_termcolors=256
+"let g:solarized_termcolors=256
 colorscheme solarized
 
 :match ExtraWhitespace /\s\+$/
