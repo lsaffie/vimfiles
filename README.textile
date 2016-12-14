@@ -2,22 +2,11 @@ h1. Usage
 
 In your home directory (Linux or Mac), run:
 
-<pre><code>
-mv ~/.vim ~/vim_old # backup your old .vim folder
-git clone git://github.com/akitaonrails/vimfiles.git ~/.vim
+ln -s vimfiles .vim
+ln -s vimfiles/vimrc .vimrc
 
-mv ~/.vimrc ~/vimrc_old
-ln -s ~/.vim/vimrc ~/.vimrc
-</code></pre>
+#To install modules
+cd ~/.vim && git submodule init && git submodule update
 
-
-
-
-To install submodules
-
-cd .vim
-git submodule init
-git submodule update
-</code></pre>
 
 
