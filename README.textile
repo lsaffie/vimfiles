@@ -2,8 +2,9 @@ h1. Usage
 
 In your home directory (Linux or Mac), run:
 
-ln -s vimfiles .vim
-ln -s vimfiles/vimrc .vimrc
+cd ~
+git clone https://github.com/lsaffie/vimfiles/ .vim
+ln -s .vim/vimrc .vimrc
 
 #To install modules
 cd ~/.vim && git submodule init && git submodule update
