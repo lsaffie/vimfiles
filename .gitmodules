@@ -12,7 +12,7 @@
 	url = git://github.com/tpope/vim-endwise.git
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
-	url = git://github.com/altercation/vim-colors-solarized.git 
+	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = git://github.com/tpope/vim-rails.git
@@ -24,7 +24,7 @@
 	url = git://github.com/ervandew/supertab.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = git://github.com/scrooloose/syntastic.git
+	url = https://github.com/vim-syntastic/syntastic
 [submodule "bundle/mru"]
 	path = bundle/mru
 	url = git://github.com/vim-scripts/mru.vim.git
@@ -60,4 +60,4 @@
 	url = git@github.com:Lokaltog/powerline.git
 [submodule "bundle/vim-rubocop"]
         path = bundle/vim-rubocop
-        url = git@github.com:ngmy/vim-rubocop.git
+        url = https://github.com/ngmy/vim-rubocop
