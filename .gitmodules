@@ -65,5 +65,8 @@
         path = bundle/typescript-vim
         url =  https://github.com/leafgarland/typescript-vim
 [submodule "bundle/vim-surround"]
-        path = bundle/vim-surround
-        url =  git@github.com:tpope/vim-surround.git
+	path = bundle/vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "bundle/emmet-vim"]
+	path = bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
