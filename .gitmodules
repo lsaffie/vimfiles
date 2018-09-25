@@ -28,9 +28,9 @@
 [submodule "bundle/mru"]
 	path = bundle/mru
 	url = git://github.com/vim-scripts/mru.vim.git
-[submodule "bundle/autoclose"]
+[submodule "bundle/auto-pairs"]
 	path = bundle/autoclose
-	url = https://github.com/Townk/vim-autoclose.git
+	url = git@github.com:jiangmiao/auto-pairs.git
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = git://github.com/scrooloose/nerdcommenter.git
