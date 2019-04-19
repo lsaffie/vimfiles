@@ -50,7 +50,7 @@ nnoremap <C-R> :source ~/.vimrc
 nnoremap <Leader>w :%s/\s\+$// <CR>
 
 "vimgrep
-nnoremap <Leader>g :noautocmd vimgrep /<C-r><C-w>/ **/*.rb <Bar> cw 
+nnoremap <Leader>g :noautocmd vimgrep /<C-r><C-w>/ **/*.rb <Bar> cw
 
 "search and replace
 nnoremap <Leader>r :noautocmd %s/<C-r><C-w>/<C-r><C-w>/gc
@@ -157,8 +157,8 @@ let g:miniBufExplModSelTarget = 1
 let g:miniBufExplorerMoreThanOne = 0
 let g:miniBufExplUseSingleClick = 1
 let g:miniBufExplMapWindowNavVim = 1
-"let g:miniBufExplSplitBelow=1
-"let g:miniBufExplVSplit = 30 
+let g:miniBufExplSplitBelow=0
+let g:miniBufExplVSplit = 30
 
 "tslime
 "vim-rspec
@@ -317,6 +317,10 @@ map <Leader>a :call RunAllSpecs()<CR>
 
 nmap ; :CtrlPBuffer<CR>
 
+"split settings
+set splitright
+set splitbelow
+
 nnoremap <f1> :BufExplorer<cr>
 nnoremap <f2> :NERDTreeToggle<cr>
 nnoremap <f3> :TagbarToggle<cr>
@@ -330,7 +334,7 @@ if !has("gui")
 endif
 
 "make <c-l> clear the highlight as well as redraw
-nnoremap <C-L> :nohls<CR><C-L>
+"nnoremap <C-L> :nohls<CR><C-L>
 inoremap <C-L> <C-O>:nohls<CR>
 
 "map Q to something useful
