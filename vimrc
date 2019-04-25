@@ -87,6 +87,9 @@ let g:syntastic_check_on_wq = 0
 let g:syntastic_html_checkers=['']
 let g:syntastic_check_on_open = 0
 
+"Ctrlp custom ignore
+let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
+
 "some stuff to get the mouse going in term
 set mouse=a
 set ttymouse=xterm2
